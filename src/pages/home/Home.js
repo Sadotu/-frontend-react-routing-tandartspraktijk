@@ -22,7 +22,7 @@ function Home() {
         similique sint vero? Accusamus aliquam aliquid blanditiis consequatur est et minima mollitia neque non, odit perspiciatis placeat
         provident quos, similique sit totam vero. Beatae consequatur cupiditate rerum?
       </p>
-      <p>Leer hier meer over het bleken van tanden</p>
+      <p>Leer <a href="/whitening">hier</a> meer over het bleken van tanden</p>
     </main>
   );
 }
